@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guess</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="show">Show</string>
+    <string name="random_text">Random Text</string>
+    <string name="textview">TextView</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="enter_your_text">Enter your Text</string>
+    <string name="correct">Correct</string>
+    <string name="click_on_continue">Click on Continue</string>
+</resources>
